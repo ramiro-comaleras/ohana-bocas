@@ -1,3 +1,3 @@
 'use client'
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
-export function ForgotPasswordForm(_props?: any) { return null }
+export function BookingWizard(_props?: any) { return null }
