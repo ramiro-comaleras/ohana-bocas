@@ -1,0 +1,295 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - navigation [ref=e4]:
+        - button "Ir al inicio" [ref=e5] [cursor=pointer]:
+          - img "'Ohana Bocas logo" [ref=e7]
+          - generic [ref=e8]: ’Ohana
+        - generic [ref=e9]:
+          - button "Menú" [ref=e10] [cursor=pointer]
+          - button "Eventos" [ref=e11] [cursor=pointer]
+          - button "Hospedarse" [ref=e12] [cursor=pointer]
+          - button "Reseñas" [ref=e13] [cursor=pointer]
+          - link "Reserva Directa" [ref=e14] [cursor=pointer]:
+            - /url: https://wa.me/50700000000?text=Hola!%20Vi%20su%20p%C3%A1gina%20y%20quiero%20hacer%20una%20reserva%20en%20'Ohana%20Bocas%20%F0%9F%8C%8A
+    - generic [ref=e15]:
+      - img "'Ohana Bocas" [ref=e17]
+      - paragraph [ref=e18]: Isla Colón · Bocas del Toro 🇵🇦
+      - heading "Breathe. Surf. Eat." [level=1] [ref=e19]:
+        - text: Breathe.
+        - text: Surf.
+        - text: Eat.
+      - paragraph [ref=e20]: Tu santuario frente al mar en Isla Colón. Fusión caribeña, ritmos en vivo y la mejor vista al surf de Bocas del Toro.
+      - generic [ref=e21]:
+        - button "🍽️ Ver Menú de Hoy" [ref=e22] [cursor=pointer]
+        - link "📅 Reservar Mesa" [ref=e23] [cursor=pointer]:
+          - /url: https://wa.me/50700000000?text=Hola!%20Vi%20su%20p%C3%A1gina%20y%20quiero%20hacer%20una%20reserva%20en%20'Ohana%20Bocas%20%F0%9F%8C%8A
+      - generic [ref=e24]: 🕗 Open daily · 8:00 am – 10:00 pm
+      - button "Scroll hacia abajo" [ref=e25] [cursor=pointer]:
+        - img [ref=e26]
+    - paragraph [ref=e31]: The place to be
+    - generic [ref=e34]:
+      - generic [ref=e35]:
+        - paragraph [ref=e36]: Menú Digital
+        - heading "Sabores del Caribe" [level=2] [ref=e37]
+        - paragraph [ref=e38]: Todo preparado con ingredientes frescos del mar y la tierra.
+      - generic [ref=e39]:
+        - button "🌴 Breakfast & Brunch" [ref=e40] [cursor=pointer]
+        - button "🍕 Wood-Fired Pizzas" [ref=e41] [cursor=pointer]
+        - button "🌊 Caribbean Fusion" [ref=e42] [cursor=pointer]
+      - generic [ref=e43]:
+        - generic [ref=e44]:
+          - generic [ref=e45]: 🔥 Popular
+          - generic [ref=e46]:
+            - heading "Breakfast Burrito" [level=3] [ref=e47]
+            - generic [ref=e48]: $14
+          - paragraph [ref=e49]: Huevos · pollo crocante · tocino · papas · queso cheddar · mayonesa chipotle · costra de parmesano
+          - generic [ref=e50]:
+            - generic "Lácteos" [ref=e51]: 🥛
+            - generic "Gluten" [ref=e52]: 🌾
+        - generic [ref=e53]:
+          - generic [ref=e54]: 👨‍🍳 Chef's Pick
+          - generic [ref=e55]:
+            - heading "Benny by the Beach" [level=3] [ref=e56]
+            - generic [ref=e57]: $15
+          - paragraph [ref=e58]: Pan de coco casero · aguacate · arúgula · tocino · 2 huevos pochados · salsa holandesa · cebollas curtidas
+          - generic [ref=e59]:
+            - generic "Lácteos" [ref=e60]: 🥛
+            - generic "Huevo" [ref=e61]: 🥚
+            - generic "Gluten" [ref=e62]: 🌾
+        - generic [ref=e63]:
+          - generic [ref=e64]:
+            - heading "Pancakes de Pie de Limón" [level=3] [ref=e65]
+            - generic [ref=e66]: $11
+          - paragraph [ref=e67]: Torre de pancakes con salsa casera de pie de limón y crumble de galleta
+          - generic [ref=e68]:
+            - generic "Gluten" [ref=e69]: 🌾
+            - generic "Huevo" [ref=e70]: 🥚
+            - generic "Lácteos" [ref=e71]: 🥛
+        - generic [ref=e72]:
+          - generic [ref=e73]:
+            - heading "Bowl de Açaí" [level=3] [ref=e74]
+            - generic [ref=e75]: $10
+          - paragraph [ref=e76]: Mezcla cremosa de açaí · fruta fresca · granola casera · hojuelas de coco. Ligero y energizante
+          - generic "Gluten" [ref=e78]: 🌾
+        - generic [ref=e79]:
+          - generic [ref=e80]:
+            - heading "Avo Toast" [level=3] [ref=e81]
+            - generic [ref=e82]: $12
+          - paragraph [ref=e83]: Pan de masa madre · aguacate · semillas de sésamo · salsa chipotle · 2 huevos fritos
+          - generic [ref=e84]:
+            - generic "Gluten" [ref=e85]: 🌾
+            - generic "Huevo" [ref=e86]: 🥚
+        - generic [ref=e87]:
+          - generic [ref=e88]:
+            - heading "Ohana Breakfast" [level=3] [ref=e89]
+            - generic [ref=e90]: $13
+          - paragraph [ref=e91]: 2 huevos a tu manera · pan de masa madre · mantequilla · mermelada de arándanos · fruta
+          - generic [ref=e92]:
+            - generic "Gluten" [ref=e93]: 🌾
+            - generic "Huevo" [ref=e94]: 🥚
+            - generic "Lácteos" [ref=e95]: 🥛
+      - generic [ref=e96]:
+        - generic [ref=e97]: "Alérgenos:"
+        - generic [ref=e98]: 🌾 Gluten
+        - generic [ref=e99]: 🥛 Lácteos
+        - generic [ref=e100]: 🥚 Huevo
+        - generic [ref=e101]: 🐟 Pescado
+        - generic [ref=e102]: 🦐 Mariscos
+        - generic [ref=e103]: 🦑 Mariscos
+        - generic [ref=e104]: 🥜 Frutos secos
+      - generic [ref=e105]:
+        - paragraph [ref=e106]: ¿Quieres ver el menú completo con todas las categorías?
+        - link "📲 Pedir por WhatsApp" [ref=e107] [cursor=pointer]:
+          - /url: https://wa.me/50700000000?text=Hola!%20Vi%20su%20p%C3%A1gina%20y%20quiero%20hacer%20una%20reserva%20en%20'Ohana%20Bocas%20%F0%9F%8C%8A
+    - generic [ref=e109]:
+      - generic [ref=e110]:
+        - paragraph [ref=e111]: Cada semana
+        - heading "El lugar donde pasar la noche" [level=2] [ref=e112]
+        - paragraph [ref=e113]: Música en vivo, DJ sets y la mejor salsa social de Bocas. Hay algo especial cada noche de la semana.
+      - generic [ref=e114]:
+        - generic [ref=e118]:
+          - generic [ref=e119]:
+            - generic [ref=e120]: LUN
+            - generic [ref=e121]: ⚡ Destacado
+          - generic [ref=e122]: 💃
+          - heading "Salsa Social" [level=3] [ref=e123]
+          - paragraph [ref=e124]: con Los Que La Forman
+          - paragraph [ref=e125]: 🕐 8:00 PM
+        - generic [ref=e129]:
+          - generic [ref=e131]: MIÉ
+          - generic [ref=e132]: 🎸
+          - heading "Acoustic Night" [level=3] [ref=e133]
+          - paragraph [ref=e134]: Sounds of the Caribbean
+          - paragraph [ref=e135]: 🕐 7:00 PM
+        - generic [ref=e139]:
+          - generic [ref=e141]: JUE
+          - generic [ref=e142]: 🧠
+          - heading "Trivia Night" [level=3] [ref=e143]
+          - paragraph [ref=e144]: Teams of up to 4
+          - paragraph [ref=e145]: 🕐 7:30 PM
+        - generic [ref=e149]:
+          - generic [ref=e151]: VIE
+          - generic [ref=e152]: 🌅
+          - heading "Reggae Sunsets" [level=3] [ref=e153]
+          - paragraph [ref=e154]: Sunset Vibes + Rum
+          - paragraph [ref=e155]: 🕐 6:00 PM
+        - generic [ref=e159]:
+          - generic [ref=e161]: SÁB
+          - generic [ref=e162]: 🎧
+          - heading "DJ Set" [level=3] [ref=e163]
+          - paragraph [ref=e164]: Happy Hour 5–7pm
+          - paragraph [ref=e165]: 🕐 5:00 PM
+        - generic [ref=e169]:
+          - generic [ref=e171]: DOM
+          - generic [ref=e172]: 🥂
+          - heading "Brunch & Chill" [level=3] [ref=e173]
+          - paragraph [ref=e174]: Live Background Music
+          - paragraph [ref=e175]: 🕐 10:00 AM
+    - generic [ref=e177]:
+      - generic [ref=e178]:
+        - paragraph [ref=e179]: Vibe & Stay
+        - heading "Más que un restaurante" [level=2] [ref=e180]
+      - generic [ref=e181]:
+        - generic [ref=e182]:
+          - generic [ref=e183]: 🏄
+          - heading "Surf-Chic Vibes" [level=3] [ref=e184]
+          - paragraph [ref=e185]: Ubicados frente a la mejor ola de Isla Colón, somos el punto de encuentro de surfistas, nómadas digitales y foodies. Un ambiente relajado donde todos son familia.
+          - generic [ref=e186]:
+            - generic [ref=e187]:
+              - generic [ref=e188]: 🌳
+              - generic [ref=e189]: Kids Park — los peques también son bienvenidos
+            - generic [ref=e190]:
+              - generic [ref=e191]: 🌊
+              - generic [ref=e192]: Vista directa al surf break de Isla Colón
+            - generic [ref=e193]:
+              - generic [ref=e194]: 🍹
+              - generic [ref=e195]: Happy Hour diario y cócteles artesanales
+            - generic [ref=e196]:
+              - generic [ref=e197]: 💻
+              - generic [ref=e198]: WiFi de alta velocidad para nómadas digitales
+        - generic [ref=e199]:
+          - generic [ref=e200]: 🌅
+          - heading "B&B con Vista al Mar" [level=3] [ref=e201]
+          - paragraph [ref=e202]: En el segundo piso, habitaciones diseñadas para que te despiertes con la brisa del Caribe y el sonido de las olas. Desayuno incluido, surf a pasos.
+          - generic [ref=e203]:
+            - generic [ref=e204]:
+              - generic [ref=e205]: 🪟
+              - generic [ref=e206]: Vista panorámica al océano desde cada habitación
+            - generic [ref=e207]:
+              - generic [ref=e208]: 🏠
+              - generic [ref=e209]: Ambiente íntimo y personalizado
+            - generic [ref=e210]:
+              - generic [ref=e211]: 🌺
+              - generic [ref=e212]: Desayuno ’Ohana incluido cada mañana
+            - generic [ref=e213]:
+              - generic [ref=e214]: 🏄
+              - generic [ref=e215]: Acceso directo a la playa
+          - link "📲 Consultar disponibilidad" [ref=e216] [cursor=pointer]:
+            - /url: https://wa.me/50700000000?text=Hola!%20Vi%20su%20p%C3%A1gina%20y%20quiero%20hacer%20una%20reserva%20en%20'Ohana%20Bocas%20%F0%9F%8C%8A
+    - generic [ref=e218]:
+      - generic [ref=e219]:
+        - paragraph [ref=e220]: Lo que dicen nuestros clientes
+        - heading "La familia crece cada día" [level=2] [ref=e221]
+        - link "⭐ 4.8 en Google Reviews" [ref=e222] [cursor=pointer]:
+          - /url: https://www.google.com/search?q=ohana+bocas
+          - generic [ref=e223]: ⭐
+          - generic [ref=e224]: "4.8"
+          - generic [ref=e225]: en Google Reviews
+          - img [ref=e226]
+      - generic [ref=e230]:
+        - generic [ref=e231]:
+          - generic [ref=e232]:
+            - generic [ref=e233]: ★
+            - generic [ref=e234]: ★
+            - generic [ref=e235]: ★
+            - generic [ref=e236]: ★
+            - generic [ref=e237]: ★
+          - paragraph [ref=e238]: “Best breakfast in Bocas, no question. The Burrito Tropical changed my life. We came back 4 days in a row. The view while surfing passes is unmatched.”
+          - generic [ref=e239]:
+            - generic [ref=e240]: S
+            - generic [ref=e241]:
+              - paragraph [ref=e242]: Sarah M.
+              - paragraph [ref=e243]: 🇺🇸 California
+        - generic [ref=e244]:
+          - generic [ref=e245]:
+            - generic [ref=e246]: ★
+            - generic [ref=e247]: ★
+            - generic [ref=e248]: ★
+            - generic [ref=e249]: ★
+            - generic [ref=e250]: ★
+          - paragraph [ref=e251]: “El salmón con maracuyá es una obra de arte. La vista, la música, el ambiente... 'Ohana es ese lugar especial que te hace volver a Bocas.”
+          - generic [ref=e252]:
+            - generic [ref=e253]: C
+            - generic [ref=e254]:
+              - paragraph [ref=e255]: Carlos R.
+              - paragraph [ref=e256]: 🇨🇴 Medellín
+        - generic [ref=e257]:
+          - generic [ref=e258]:
+            - generic [ref=e259]: ★
+            - generic [ref=e260]: ★
+            - generic [ref=e261]: ★
+            - generic [ref=e262]: ★
+            - generic [ref=e263]: ★
+          - paragraph [ref=e264]: “We stayed in the B&B and it was magical. Woke up to ocean sounds, had açaí bowls for breakfast, surfed all day. This place is a dream.”
+          - generic [ref=e265]:
+            - generic [ref=e266]: E
+            - generic [ref=e267]:
+              - paragraph [ref=e268]: Emma L.
+              - paragraph [ref=e269]: 🇫🇷 París
+    - contentinfo [ref=e270]:
+      - generic [ref=e271]:
+        - generic [ref=e272]:
+          - generic [ref=e273]:
+            - generic [ref=e274]:
+              - img "'Ohana Bocas" [ref=e276]
+              - generic [ref=e277]:
+                - paragraph [ref=e278]: ’Ohana Bocas
+                - paragraph [ref=e279]: BEACH VIBES · YUMMY BITES
+            - paragraph [ref=e280]: Tu santuario caribeño frente al mar. Comida con alma, música con ritmo, hospitality con corazón.
+          - generic [ref=e281]:
+            - heading "Encuéntranos" [level=4] [ref=e282]
+            - generic [ref=e283]:
+              - paragraph [ref=e284]:
+                - generic [ref=e285]: 📍
+                - generic [ref=e286]:
+                  - text: Isla Colón
+                  - text: Bocas del Toro, Panamá 🇵🇦
+              - paragraph [ref=e287]:
+                - generic [ref=e288]: 🕗
+                - text: Open daily · 8:00 am – 10:00 pm
+              - link "📱 WhatsApp · Reservas & consultas" [ref=e289] [cursor=pointer]:
+                - /url: https://wa.me/50700000000?text=Hola!%20Vi%20su%20p%C3%A1gina%20y%20quiero%20hacer%20una%20reserva%20en%20'Ohana%20Bocas%20%F0%9F%8C%8A
+                - generic [ref=e290]: 📱
+                - text: WhatsApp · Reservas & consultas
+          - generic [ref=e291]:
+            - heading "Síguenos" [level=4] [ref=e292]
+            - generic [ref=e293]:
+              - link "📸 @ohanabocas" [ref=e294] [cursor=pointer]:
+                - /url: https://www.instagram.com/ohanabocas/
+                - generic [ref=e295]: 📸
+                - generic [ref=e296]: "@ohanabocas"
+              - link "🎵 @ohana.bocas" [ref=e297] [cursor=pointer]:
+                - /url: https://www.tiktok.com/@ohana.bocas
+                - generic [ref=e298]: 🎵
+                - generic [ref=e299]: "@ohana.bocas"
+              - link "⭐ Reseñas en Google" [ref=e300] [cursor=pointer]:
+                - /url: https://www.google.com/search?q=ohana+bocas
+                - generic [ref=e301]: ⭐
+                - generic [ref=e302]: Reseñas en Google
+          - generic [ref=e303]:
+            - heading "Cómo llegar" [level=4] [ref=e304]
+            - iframe [ref=e306]
+        - generic [ref=e307]:
+          - paragraph [ref=e308]: © 2025 ’Ohana Bocas · Isla Colón · Bocas del Toro 🇵🇦
+          - generic [ref=e309]:
+            - link "Instagram" [ref=e310] [cursor=pointer]:
+              - /url: https://www.instagram.com/ohanabocas/
+            - link "TikTok" [ref=e311] [cursor=pointer]:
+              - /url: https://www.tiktok.com/@ohana.bocas
+    - link "Contactar por WhatsApp" [ref=e313] [cursor=pointer]:
+      - /url: https://wa.me/50700000000?text=Hola!%20Vi%20su%20p%C3%A1gina%20y%20quiero%20hacer%20una%20reserva%20en%20'Ohana%20Bocas%20%F0%9F%8C%8A
+      - img [ref=e314]
+  - button "Open Next.js Dev Tools" [ref=e321] [cursor=pointer]:
+    - img [ref=e322]
+  - alert [ref=e325]

@@ -1,0 +1,4 @@
+[     444ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://api.whatsapp.com/data/manifest.json:0
+[     462ms] [ERROR] Manifest fetch from https://api.whatsapp.com/data/manifest.json failed, code 404 @ https://api.whatsapp.com/send/?phone=50700000000&text=Hola%21+Vi+su+p%C3%A1gina+y+quiero+hacer+una+reserva+en+%27Ohana+Bocas+%EF%BF%BD&type=phone_number&app_absent=0:0
+[    1462ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://api.whatsapp.com/data/manifest.json:0
+[    1486ms] [ERROR] Manifest fetch from https://api.whatsapp.com/data/manifest.json failed, code 404 @ https://api.whatsapp.com/send/?phone=50700000000&text=Hola%21+Vi+su+p%C3%A1gina+y+quiero+hacer+una+reserva+en+%27Ohana+Bocas+%EF%BF%BD&type=phone_number&app_absent=0:0
